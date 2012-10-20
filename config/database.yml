@@ -46,9 +46,7 @@ production:
   adapter: postgresql
   encoding: unicode
   database: ticketee_production
-  pool: 5
-  username: ticketee
-  password:
+  host: localhost
 
 cucumber:
   <<: *test
