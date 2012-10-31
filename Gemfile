@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.8'
 gem 'pg'
 gem 'devise', '~> 1.4.3'
+gem 'email_spec'
 
 # Gems used only for assets and not required
 # in production environments by default.
